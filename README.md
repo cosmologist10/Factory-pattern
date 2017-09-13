@@ -1,0 +1,1 @@
+Factory pattern for tree.
